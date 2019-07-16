@@ -13,7 +13,7 @@ Script for Linux server batch update
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Sometimes I need to update several Linux server at once and the server using various OS type. Following script simplify this process by using a small script to automate the processexample steps.
+Sometimes I need to update several Linux server at once and the server using various OS type. Following script simplify this process by using a small script to automate the process.
 
 ## Prerequisites
 
