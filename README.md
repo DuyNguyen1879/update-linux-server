@@ -7,6 +7,7 @@ Script for Linux server batch update
 * [About the Project](#about-the-project)
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
+* [Notes](#notes)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -26,6 +27,8 @@ Sometimes I need to update several Linux server at once and the server using var
 ```
 ./update-all-server.sh
 ```
+## Notes
+1. Gentoo and Slackware has no update command on linux-update.sh script as most of my server running on Ubuntu (Debian Family), CentOS (Redhat Family) and SUSE. Please update it accordingly.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
