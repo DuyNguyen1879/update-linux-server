@@ -18,8 +18,8 @@ Sometimes I need to update several Linux server at once and the server using var
 ## Prerequisites
 
 * Set password-less ssh login (or by using public key) for each server
-* Copy linux-update.sh to each server (script using /srv/vavai for example path)
-* Fill in list-server.txt with list of server name or IP
+* Copy linux-update.sh to each server
+* Fill in list-server.txt with list of server name or server IP address
 
 <!-- USAGE EXAMPLES -->
 ## Usage
